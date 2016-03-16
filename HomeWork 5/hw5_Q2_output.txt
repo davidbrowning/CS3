@@ -1,0 +1,48 @@
+The key 185 is in T[21].
+The key 100 is in T[18].
+The key 19 is in T[19].
+The key 200 is not in the current hash table.
+The key 13 is in T[13].
+
+The following is the current hash table:
+The entry 0 is empty.
+The entry 1 is 42
+The entry 2 is empty.
+The entry 3 is empty.
+The entry 4 is 168
+The entry 5 is empty.
+The entry 6 is 88, but is deleted.
+The entry 7 is empty.
+The entry 8 is 90
+The entry 9 is 173
+The entry 10 is empty.
+The entry 11 is empty.
+The entry 12 is 586
+The entry 13 is 13, but is deleted.
+The entry 14 is 383
+The entry 15 is empty.
+The entry 16 is 180
+The entry 17 is 58
+The entry 18 is 100
+The entry 19 is 19
+The entry 20 is empty.
+The entry 21 is 185, but is deleted.
+The entry 22 is 514
+The entry 23 is 23
+The entry 24 is empty.
+The entry 25 is 66
+The entry 26 is 26
+The entry 27 is empty.
+The entry 28 is empty.
+The entry 29 is 70
+The entry 30 is empty.
+The entry 31 is empty.
+The entry 32 is empty.
+The entry 33 is empty.
+The entry 34 is empty.
+The entry 35 is 117, but is deleted.
+The entry 36 is 651
+The entry 37 is empty.
+The entry 38 is empty.
+The entry 39 is empty.
+The entry 40 is 40
